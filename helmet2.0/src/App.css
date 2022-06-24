@@ -1,0 +1,29 @@
+.App {
+  font-size: large;
+  align-content: center;
+  text-align: center;
+
+}
+.row {
+  font-size: medium ;
+  
+
+}
+.para {
+  text-align: center;
+  font-size: x-large;
+
+}
+.col-6{
+  /* display: flex; */
+  /* align-items: center; */
+}
+iframe{
+  
+  float: inline-start;
+  height: 18rem;
+  width: 32rem;
+  
+  
+  padding: 5px;
+}
